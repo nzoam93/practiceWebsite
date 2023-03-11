@@ -1,0 +1,25 @@
+#nav-bar{
+    height: 85px;
+    background-color: #26190d;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.left-nav-bar-ele{
+    padding: 13.5px 18px;
+    font-size: 27px;
+    font-family: 'Pacifico';
+    color: #D48508;
+    letter-spacing: 0.1em;
+}
+
+.right-nav-bar-ele {
+    padding: 13.5px 18px;
+    font-size: 18px;
+    font-family: 'Josefin Sans', sans-serif;
+    color: #D48508;
+    letter-spacing: 0.1em;
+}
+
+/* #e58f04 */
