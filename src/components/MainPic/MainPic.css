@@ -1,0 +1,26 @@
+#main-pic{
+    background-image: url("../../../Images/LotusFlower.jpg") ;
+    width: 100vw;
+    height: 90vh;
+    object-fit: cover;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#main-pic-first-line{
+    color: white;
+    font-size: 68px;
+    font-family: 'Baker Signet';
+    letter-spacing: 0.06em;
+}
+
+#main-pic-second-line{
+    color: white;
+    font-size: 27px;
+    font-family: 'Baker Signet';
+    letter-spacing: 0.06em;
+    margin: 20px 0;
+}
