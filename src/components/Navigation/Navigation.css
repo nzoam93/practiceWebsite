@@ -1,6 +1,6 @@
 #nav-bar{
     height: 85px;
-    background-color: #26190d;
+    background-color: var(--brown);
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -10,7 +10,7 @@
     padding: 13.5px 18px;
     font-size: 27px;
     font-family: 'Pacifico';
-    color: #D48508;
+    color: var(--orange);
     letter-spacing: 0.1em;
 }
 
@@ -18,7 +18,7 @@
     padding: 13.5px 18px;
     font-size: 18px;
     font-family: 'Josefin Sans', sans-serif;
-    color: #D48508;
+    color: var(--orange);
     letter-spacing: 0.1em;
 }
 
