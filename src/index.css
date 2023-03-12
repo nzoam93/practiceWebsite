@@ -34,9 +34,9 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1;
 }
-ol, ul {
+/* ol, ul {
 	list-style: none;
-}
+} */
 blockquote, q {
 	quotes: none;
 }
@@ -52,4 +52,10 @@ table {
 
 a{
 	text-decoration: none;
+}
+
+/* site-wide styling */
+:root{
+	--orange: #d48508;
+	--green: #17720D;
 }
