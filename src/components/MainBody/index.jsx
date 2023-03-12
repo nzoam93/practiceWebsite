@@ -8,7 +8,7 @@ import egretImage from "./mainBodyImages/egret.jpg";
 
 const index = () => {
   return (
-    <div id='main-body'>
+    <div className='main-body'>
         <div id='first-section'>
             <h2 className='main-body-title'>WELCOME TO A NATURAL, HOLISTIC APPROACH TO HEALTH AND WELLNESS.</h2>
             <p className='general-item'>I invite you to experience a unique blend of gentle and relaxing therapies designed to break the cycle of chronic pain and disease.  They can reawaken your body’s innate ability to heal without harmful side effects, regardless of your age or how long you’ve experienced the discomfort.</p>

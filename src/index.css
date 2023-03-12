@@ -59,4 +59,13 @@ a{
 	--orange: #d48508;
 	--green: #17720D;
 	--brown: #26190d;
+	--width-offset: 10vw;
+}
+
+.italics{
+	font-style: italic;
+}
+
+.bold{
+	font-weight: bold;
 }

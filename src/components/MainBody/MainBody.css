@@ -1,5 +1,5 @@
-#main-body{
-    margin: 100px 10vw
+.main-body{
+    margin: 100px var(--width-offset)
 }
 
 .main-body-title{
@@ -16,6 +16,7 @@
 }
 
 .list-item{
+    line-height: 1.3;
     margin: 9px 0px 9px 40px;
     /* line-height: 1.5; */
     font-size: 18px;
@@ -35,4 +36,6 @@
 
 .learn-more{
     color: var(--orange);
+    line-height: 1.5;
+    font-size: 18px;
 }

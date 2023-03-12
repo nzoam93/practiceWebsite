@@ -22,4 +22,18 @@
     letter-spacing: 0.1em;
 }
 
-/* #e58f04 */
+/* dropdown CSS */
+.dropdown {
+    position: relative;
+    display: inline-block;
+  }
+
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    z-index: 1;
+  }
+
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }

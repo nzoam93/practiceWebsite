@@ -12,7 +12,7 @@ const navigation = () => {
             <a className='right-nav-bar-ele' href="/">Home</a>
             <a className='right-nav-bar-ele' href="/appointments">Appointments</a>
             <a className='right-nav-bar-ele' href="/reflexolochi">Reflexolo-chi™</a>
-            <a className='right-nav-bar-ele' href="/limitingbeliefs">Limiting Beliefs</a>
+            <a className='right-nav-bar-ele' href="/limiting-beliefs">Limiting Beliefs</a>
             <a className='right-nav-bar-ele' href="/about">About</a>
             <a className='right-nav-bar-ele' href="/classes">Classes</a>
           </div>
