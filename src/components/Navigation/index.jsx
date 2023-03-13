@@ -10,7 +10,10 @@ const navigation = () => {
           </div>
           <div id='right-nav-bar'>
             <a className='right-nav-bar-ele' href="/">Home</a>
-            <a className='right-nav-bar-ele' href="/appointments">Appointments</a>
+            <div className="right-nav-bar-ele dropdown">Appointments
+              <a href="/appointments" className="dropdown-content">Appointments</a>
+              <a href="/map-and-directions" className="dropdown-content">Map And Directions</a>
+            </div>
             <a className='right-nav-bar-ele' href="/reflexolochi">Reflexolo-chi™</a>
             <a className='right-nav-bar-ele' href="/limiting-beliefs">Limiting Beliefs</a>
             <a className='right-nav-bar-ele' href="/about">About</a>

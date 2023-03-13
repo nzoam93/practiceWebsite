@@ -32,8 +32,11 @@
     display: none;
     position: absolute;
     z-index: 1;
+    color: green;
   }
 
   .dropdown:hover .dropdown-content {
     display: block;
+    width: fit-content;
+    background-color: white;
   }
